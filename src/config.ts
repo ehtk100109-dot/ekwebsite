@@ -43,7 +43,7 @@ export const siteConfig = {
       bullets: [
         "Tutoring kids in math",
         "Varied math levels",
-        "",
+        "Ages elementary school through high school",
       ],
     },
     {
@@ -51,7 +51,7 @@ export const siteConfig = {
       title: "Software Engineering Intern",
       dateRange: "Jun 2026 - Present",
       bullets: [
-        "Created a project in a team (yet to come)",
+        "Created a browser extension in a team of 3",
         "Used XYZ languages and Git",
         "Built collaboration and teamwork skills",
       ],
@@ -74,7 +74,7 @@ export const siteConfig = {
       dateRange: "2024 - Present",
       achievements: [
         "4.85 GPA",
-        "Honor Roll all semeseters",
+        "Honor Roll all semesters",
         "International Baccalaureat Magnet Diploma Program",
       ],
     },
